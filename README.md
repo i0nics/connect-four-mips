@@ -2,7 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <br>
 <h1 align='center'> Connect Four</h1>
-<p align='center'>Command line based Connect 4 game written in both C and MIPS</p>
+<p align='center'>CLI based Connect 4 game written in both C and MIPS</p>
 <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
 
 - [About The Project](#about)
